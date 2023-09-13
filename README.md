@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Express.js Challenge: Note Taker
 
 ## Description
@@ -31,13 +33,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Website Link
 
-Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
+Check out the deployed app here: [Note Taker](https://herokuapp.com)
 
 ### Screenshots
 
 ![screenshot](./public/assets/images/Screenshot_01.jpg)
 ![screenshot](./public/assets/images/Screenshot_02.jpg)
 
-### Contact
+### Questions
 
-[Kara Krzystan on GitHub](http://github.com/kara-krzystan)
+If you have any questions about the repo, open an issue or contact me directly at [enrico.palermo@ymail.com](mailto:enrico.palermo@ymail.com).
+
+![Avatar](https://avatars.githubusercontent.com/u/141057897?v=4&s=100)
+
+Check out my other projects at [epalermobootcamp](https://github.com/epalermobootcamp)
