@@ -33,7 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ### Website Link
 
-Check out the deployed app here: [Note Taker](https://herokuapp.com)
+Check out the deployed app here: [Note Taker](https://stormy-bastion-48640-42c644fc29d0.herokuapp.com/)
 
 ### Screenshots
 
